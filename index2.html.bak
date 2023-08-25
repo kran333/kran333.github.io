@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  ul.custom-list {
+    list-style-type: none; /* Hide default bullets */
+    padding-left: 20px; /* Add some padding for the image */
+  }
+
+  ul.custom-list li::before {
+    content: ""; /* Create a pseudo-element for the image */
+    display: inline-block; /* Display as a block */
+    width: 16px; /* Set the width of the image */
+    height: 16px; /* Set the height of the image */
+    margin-right: 10px; /* Add some spacing between image and text */
+    background-image: url('images/icons/check20.png'); /* Specify the image URL */
+    background-size: cover; /* Adjust the image size */
+  }
+</style>
+</head>
+<body>
+
+<ul class="custom-list">
+  <li>List item 1</li>
+  <li>List item 2</li>
+  <li>List item 3</li>
+</ul>
+
+</body>
+</html>
