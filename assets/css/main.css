@@ -211,6 +211,19 @@ input, select, textarea {
 		border-bottom: dotted 1px;
 	}
 
+	a:link {
+		text-decoration: none;
+  }
+  
+  a:visited {
+		text-decoration: none;
+  }
+  
+  
+  a:active {
+		text-decoration: none;
+  }
+
 		a:hover {
 			text-decoration: none;
 			border-bottom-color: transparent;
