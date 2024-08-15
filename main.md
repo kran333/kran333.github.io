@@ -2,35 +2,15 @@
 
 ![Logo](images/logo2.png)
 
-## Navigation
+---
 
-- [Home](#section-home)
-- [About](#section-about)
-- [Skills](#section-portfolio)
-- [Experience](#section-experience)
-- [Education](#section-education)
-- [Achievements](#section-achievements)
-- [Contact](#section-contact)
+### Hello, I'm  # Kranthi Kumar Kedika **and this is My Portfolio**
 
 ---
 
-## Home
+### About Me
 
-![Background Image](images/image_1-1.jpg)
-
-### Hello, I'm  
-# Kranthi Kumar Kedika
-**and this is My Portfolio**
-
----
-
-## About Me
-
-![About Image](images/image_2.png)
-
-### About **Me**
-
-Software Engineer with over 3 years of professional experience in software development and Data Analytics. Expertise in various programming languages such as Python, Java, JavaScript, SQL, and AWS. Proficient in Object-Oriented Programming with expertise in Multi-Threading, Exception Handling, and Collections for designing robust solutions. Experience using code management platforms like Bitbucket and GitHub to migrate source code across branches.
+Software Engineer with professional experience in software development and Data Analytics. Expertise in various programming languages such as Python, Java, JavaScript, SQL, and AWS. Proficient in Object-Oriented Programming with expertise in Multi-Threading, Exception Handling, and Collections for designing robust solutions. Experience using code management platforms like Bitbucket and GitHub to migrate source code across branches.
 
 [View Resume](https://drive.google.com/file/d/1pohGUJUzzy57r6SZvQNwznflUnzNXZnm/view?usp=sharing)
 
