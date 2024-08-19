@@ -4,7 +4,7 @@
 
 ---
 
-### Hello, I'm  # Kranthi Kumar Kedika **and this is My Portfolio**
+### Hello, I'm  Kranthi Kumar Kedika **and this is My Portfolio**
 
 ---
 
