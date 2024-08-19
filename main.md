@@ -4,7 +4,7 @@
 
 ---
 
-### Hello, I'm  KRANTHI KUMAR KEDIKA nd this is My Portfolio
+### Hello, I'm  KRANTHI KUMAR KEDIKA and this is My Portfolio
 
 ---
 
@@ -27,9 +27,9 @@ Software Engineer with professional experience in software development and Data 
   - Interpersonal Skills: Problem Solving, Excellent Communication, Teamwork, Adaptability
 
 - **Certifications**
-  - AWS Training and Certification: AWS Certified Developer – Associate
-  - Google Cloud Certification: Google Cloud Certified - Associate Cloud Engineer
-  - Issued by DataCamp: Training Accomplishments
+  - [AWS Training and Certification: AWS Certified Developer – Associate](https://www.credly.com/badges/3d1122b8-2902-4edf-8256-0fe755c0d4ae/public_url)
+  - [Google Cloud Certification: Google Cloud Certified - Associate Cloud Engineer](https://www.credly.com/badges/e5dec0ed-35d9-45bf-b1d9-bc03a68c81de/public_url)
+  - [Issued by DataCamp: Training Accomplishments](https://drive.google.com/file/d/1w6TZgbfJtnsIfNj0pHs_D5ase6yItTbF/view)
 
 ---
 
