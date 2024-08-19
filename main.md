@@ -56,7 +56,7 @@ I excelled in Agile development, collaborating closely with stakeholders to refi
 
 Northern Arizona University, Flagstaff, Arizona.
 
-Relevant Coursework: Advanced Intelligent Systems, Contemporary Developments (Accessible Games for Health), Applied Cryptography, Applied Business Intelligence, Statistical Methods I, Software Assurance.
+_Relevant Coursework: Advanced Intelligent Systems, Contemporary Developments (Accessible Games for Health), Applied Cryptography, Applied Business Intelligence, Statistical Methods I, Software Assurance._
 
 GPA: 3.10/4.00
 
@@ -79,11 +79,9 @@ CGPA: 7.33/10
 
 [![Publication Image](images/post_1.jpg)](https://acadpubl.eu/hub/2018-119-16/2/338.pdf)
 
-Secured Data Transmission in Cloud Using Hybrid Cryptography.
+_Secured Data Transmission in Cloud Using Hybrid Cryptography._
 
-I worked with my professor, Devi T, to develop a new cryptography technique that enhances cloud infrastructure security. We published a paper in the "International Journal of Pure and Applied Mathematics" 2018. Our approach employs a combination of symmetric and asymmetric encryption algorithms known as Hybrid Cryptographic methods to maximize security.
-
-_August, 2018._
+I worked with my professor, Devi T, to develop a new cryptography technique that enhances cloud infrastructure security. We published a paper in the "International Journal of Pure and Applied Mathematics" 2018. Our approach employs a combination of symmetric and asymmetric encryption algorithms known as Hybrid Cryptographic methods to maximize security. _August, 2018._
 
 **Projects**
 
@@ -95,6 +93,4 @@ Check out my GitHub profile to explore my projects firsthand. Witness the depth 
 
 [![Awards Image](images/post_3.jpg)](https://drive.google.com/file/d/15lgXbGsvhFFEUWPdpG2EAUEYPh_zASVd/view?usp=sharing)
 
-During my time at NAU, I led a team of three in creating an interactive narrative game called "Disability Justice Twinery Narrative." The game won second place at Engineering FEST-1 and provided a platform for improving communication skills for people with disabilities.
-
-_December, 2018._
+During my time at NAU, I led a team of three in creating an interactive narrative game called "Disability Justice Twinery Narrative." The game won second place at Engineering FEST-1 and provided a platform for improving communication skills for people with disabilities. _December, 2018._
