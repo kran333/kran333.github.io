@@ -4,7 +4,7 @@
 
 ---
 
-### Hello, I'm  Kranthi Kumar Kedika **and this is My Portfolio**
+### Hello, I'm  KRANTHI KUMAR KEDIKA nd this is My Portfolio
 
 ---
 
@@ -35,17 +35,14 @@ Software Engineer with professional experience in software development and Data 
 
 ## My Experience
 
-**September 2019 - December 2021**
-
-### Software Engineer | Accenture
+### Software Engineer | Accenture | September 2019 - December 2021
 
 _Chennai, India._
 
 As an experienced developer and data analyst, I excel in integrating RESTful APIs for efficient data retrieval and crafting intuitive reporting modules using HTML5, CSS3, Angular, ReactJS, and jQuery. I specialize in creating dynamic single-page applications with Angular and Node JS, collaborating closely with AWS for seamless integration. My expertise in data analysis, demonstrated through Jupyter Notebooks, has led to significant improvements in forecasting accuracy and operational efficiency. I optimize data pipelines and SQL queries for faster execution, manage multi-environment setups, troubleshoot data issues, and utilize Linux/Unix for database management. Additionally, I create interactive dashboards in PowerBI and Tableau, reducing reporting time.
 
-**December 2018 - August 2019**
 
-### Associate Software Engineer | Accenture
+### Associate Software Engineer | Accenture | December 2018 - August 2019
 
 _Chennai, India._
 
@@ -55,9 +52,7 @@ I excelled in Agile development, collaborating closely with stakeholders to refi
 
 ## My Education
 
-**January 2022 - May 2023**
-
-### Master of Computer Science
+### Master of Computer Science | January 2022 - May 2023
 
 Northern Arizona University, Flagstaff, Arizona.
 
@@ -67,9 +62,8 @@ GPA: 3.10/4.00
 
 [Transcripts](https://drive.google.com/file/d/1h8WkRTWBa7EahNBRXds-qubNXO-b1iZJ/view?usp=sharing) | [eDiploma](https://drive.google.com/file/d/1OGnvXGa7QQeP9Uzoa4gAyhRqLRfIFUBk/view?usp=sharing)
 
-**August 2014 - May 2018**
 
-### Bachelor of Computer Science
+### Bachelor of Computer Science | August 2014 - May 2018
 
 Saveetha School of Engineering, Chennai, India.
 
@@ -103,4 +97,4 @@ Check out my GitHub profile to explore my projects firsthand. Witness the depth 
 
 During my time at NAU, I led a team of three in creating an interactive narrative game called "Disability Justice Twinery Narrative." The game won second place at Engineering FEST-1 and provided a platform for improving communication skills for people with disabilities.
 
-_December_
+_December, 2018._
